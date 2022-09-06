@@ -36,3 +36,9 @@ This table describes about the locations which are famous to stay and to visit.
 | Dallas    |  concerts       | 3days |
 | virginia  |  river valley   | 3 days|
 | chicago   | Michigan avenue | 2Days |
+
+***
+
+### Section for Pithy Quotes 
+
+> The whole secret of existence is to have no fear-*swami vivekananda*.
