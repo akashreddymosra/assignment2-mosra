@@ -42,4 +42,5 @@ This table describes about the locations which are famous to stay and to visit.
 ### Section for Pithy Quotes 
 
 > The whole secret of existence is to have no fear-*swami vivekananda*
+
 > The future belongs to those who believe in the beauty of their dreams-*Eleanor Roosevelt*
