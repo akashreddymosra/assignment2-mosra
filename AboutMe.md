@@ -4,4 +4,4 @@ This is Akash Reddy from Nizamabad,Telangana.I did my undergraduate in  computer
 
 
 <!-- ![pic2](\pic2.jpg) -->
-![image](./main/pic2.jpg)
+![image](./pic2.jpg)
