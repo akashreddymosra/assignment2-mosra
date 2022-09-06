@@ -25,3 +25,14 @@ Other locations around the museum:
 
 ***
 
+### New section for tables
+
+This table describes about the locations which are famous to stay and to visit.
+
+| City name |  Location       | Time  |
+| -----     | -----           | ----  |
+| Hyderabad | Ramojifilm city | 2Days |
+| Delhi     |   Red fort      | 1 Day |
+| Dallas    |  concerts       | 3days |
+| virginia  |  river valley   | 3 days|
+| chicago   | Michigan avenue | 2Days |
