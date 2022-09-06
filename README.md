@@ -54,9 +54,21 @@ This table describes about the locations which are famous to stay and to visit.
 <https://stackoverflow.com/questions/22252472/how-to-change-the-color-of-an-svg-element>
 
 ```
-.change-my-color {
-  fill: green;
-}
+<svg width="100%" height="100%">
+    
+  <!-- Let's define the pattern -->
+  <!-- The width and height should be double the size of a single checker -->
+  <pattern id="pattern-checkers" x="0" y="0" width="200" height="200" patternUnits="userSpaceOnUse">
+    <!-- Two instances of the same checker, only positioned apart on the `x` and `y` axis -->
+    <!-- We will define the `fill` in the CSS for flexible use -->
+    <rect class="checker" x="0" width="100" height="100" y="0"></rect>
+    <rect class="checker" x="100" width="100" height="100" y="100"></rect>
+  </pattern>
+  
+  <!-- Define the shape that will contain our pattern as the fill -->
+  <rect x="0" y="0" width="100%" height="100%" fill="url(#pattern-checkers)"></rect>
+  
+</svg>
 ```
 
-<https://stackoverflow.com/questions/22252472/how-to-change-the-color-of-an-svg-element>
+<https://css-tricks.com/snippets/svg/svg-patterns/>
