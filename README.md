@@ -10,7 +10,13 @@ This museum is founded in 1879 in chicago and it is the most oldest one in the U
 ### section of ordered and unordered lists
 The closest airport is Chicago Midway International Airport (MDW / KMDW).
 
-1. Board a train at Midway aiport.
-2. Drop at Harold Washington Library stop.
-3. walk towards south for 850 meters.
-4. Finally museum is on right. 
+1. Board a train at Midway aiport
+2. Drop at Harold Washington Library stop
+3. walk towards south for 850 meters
+4. Finally museum is on right
+
+Other locations around the museum:
+* 360 Chicago Observation Deck
+* Cloud Gate
+* Field Museum
+* Wrigley Field
