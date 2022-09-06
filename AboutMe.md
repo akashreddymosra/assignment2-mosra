@@ -4,5 +4,5 @@ This is Akash Reddy from Nizamabad,Telangana.I did my undergraduate in  computer
 
 
 <!-- ![pic2](\pic2.jpg) -->
-![image](https://github.com/akashreddymosra/assignment2-mosra/blob/main/pic2.jpg)
+![image](https://github.com/akashreddymosra/assignment2-mosra/blob/main/rose.png)
 ![image1](https://www.gstatic.com/webp/gallery3/1_webp_ll.png)
