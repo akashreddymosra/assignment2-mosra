@@ -44,3 +44,19 @@ This table describes about the locations which are famous to stay and to visit.
 > The whole secret of existence is to have no fear-*swami vivekananda*
 
 > The future belongs to those who believe in the beauty of their dreams-*Eleanor Roosevelt*
+
+***
+
+### code fencing section
+
+> How to change the color of an svg element?
+
+<https://stackoverflow.com/questions/22252472/how-to-change-the-color-of-an-svg-element>
+
+```
+.change-my-color {
+  fill: green;
+}
+```
+
+<https://stackoverflow.com/questions/22252472/how-to-change-the-color-of-an-svg-element>
